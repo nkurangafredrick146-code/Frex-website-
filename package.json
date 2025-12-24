@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next-sitemap",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-email/render": "^2.0.0"
+  }
+}
